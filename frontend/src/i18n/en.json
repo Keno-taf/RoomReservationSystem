@@ -1,0 +1,98 @@
+
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "newReservation": "New Reservation",
+    "myReservations": "My Reservations",
+    "pendingApprovals": "Pending Approvals",
+    "adminDashboard": "Administrator Dashboard",
+    "users": "Users",
+    "logout": "Logout"
+  },
+
+  "header": {
+  "notifications": "Notifications",
+  "noNotifications": "No notifications yet.",
+  "theme": "Switch theme",
+  "language": "Language",
+  "logout": "Logout",
+  "markAllRead": "Mark all as read",
+  "loading": "Loading notifications...",
+  "loadError": "Could not load notifications.",
+  "markReadError": "Could not mark notification as read.",
+  "unread": "unread",
+  "retry": "Retry",
+  "read": "Read",
+  "openRelated": "Open related page"
+},
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "search": "Search",
+    "back": "Back",
+    "approve": "Approve",
+    "reject": "Reject",
+    "status": "Status",
+    "actions": "Actions",
+    "loadingFacilities": "Loading facilities...",
+  "optional": "Optional",
+  "clearForm": "Clear Form",
+  "submitting": "Submitting..."
+  },
+  "reservation": {
+    "title": "Reservation Request",
+    "facility": "Facility",
+    "date": "Reservation Date",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "purpose": "Purpose",
+    "participants": "Number of Participants",
+    "additionalRequirements": "Additional Requirements",
+    "notes": "Notes",
+    "approvalRoute": "Approval Route",
+    "submitRequest": "Submit Request",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "cancelled": "Cancelled",
+
+  "requestFacility": "Request a facility reservation",
+  "requestTitle": "Reservation Request",
+  "requestDescription": "Complete the information below to submit your reservation request.",
+  "facilityInformation": "Facility Information",
+  "selectFacility": "Select a facility",
+  "capacity": "Capacity",
+  "purposePlaceholder": "e.g. Department meeting",
+  "dateAndTime": "Date and Time",
+  "date": "Reservation Date",
+  "reservationDetails": "Reservation Details",
+  "participantsPlaceholder": "e.g. 25",
+  "additionalRequirementsPlaceholder": "e.g. Projector, chairs",
+  "mobilePhoneNumber": "Mobile Phone Number",
+  "mobilePhonePlaceholder": "e.g. 0912345678 or +251912345678",
+  "smsNotificationHelp": "We will use this number to notify you by SMS when your reservation is approved.",
+  "additionalPhoneNumber": "Additional Phone Number",
+  "additionalPhonePlaceholder": "e.g. 0912345678",
+  "descriptionNotes": "Description / Notes",
+  "notesPlaceholder": "Provide additional information about the reservation...",
+  "facilityManager": "Facility Manager",
+  "routeFacilityManager": "Employee → Facility Manager → Facility Reserved",
+  "departmentHead": "Department Head",
+  "routeDepartmentHead": "Employee → Department Head → Facility Manager → Facility Reserved",
+  "messages": {
+    "facilityLoadError": "Failed to load facilities.",
+    "invalidPhone": "Enter a valid Ethiopian mobile number, such as 0912345678 or +251912345678.",
+    "invalidAdditionalPhone": "Enter a valid additional mobile number or leave that field blank.",
+    "endTimeMustBeAfterStart": "End time must be later than start time.",
+    "submitSuccess": "Reservation submitted successfully.",
+    "submitError": "Failed to submit reservation. Please try again."
+  }
+  },
+  "messages": {
+    "success": "Operation completed successfully.",
+    "error": "Something went wrong. Please try again.",
+    "required": "This field is required."
+  }
+}

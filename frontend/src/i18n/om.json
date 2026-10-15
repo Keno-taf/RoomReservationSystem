@@ -1,0 +1,63 @@
+
+{
+  "appName": "Sirna Qabannaa Kutaa",
+  "navigation": {
+    "dashboard": "Daashboordii",
+    "newReservation": "Qabannaa Kutaa Haaraa",
+    "myReservations": "Qabannoowwan Koo",
+    "pendingApprovals": "Mirkaneessa Eeggachaa Jiran",
+    "adminDashboard": "Daashboordii Bulchaa",
+    "users": "Fayyadamtoota",
+    "logout": "Ba'i"
+  },
+
+  "header": {
+  "notifications": "Beeksisawwan",
+  "noNotifications": "Ammaaf beeksisaan hin jiru.",
+  "theme": "Bifa jijjiiri",
+  "language": "Afaan",
+  "logout": "Ba'i",
+  "markAllRead": "Hunda dubbifame godhi",
+  "loading": "Beeksisawwan fe'amaa jiru...",
+  "loadError": "Beeksisawwan fiduun hin danda'amne.",
+  "markReadError": "Beeksisa dubbifame gochuun hin danda'amne.",
+  "unread": "hin dubbifamne",
+  "retry": "Irra deebi'i",
+  "read": "Dubbifame",
+  "openRelated": "Fuula walqabatu bani"
+},
+  "common": {
+    "save": "Olkaa'i",
+    "cancel": "Haqi",
+    "submit": "Galchi",
+    "loading": "Fe'amaa jira...",
+    "search": "Barbaadi",
+    "back": "Duubatti Deebi'i",
+    "approve": "Mirkaneessi",
+    "reject": "Didi",
+    "status": "Haala",
+    "actions": "Gochaalee"
+  },
+  "reservation": {
+    "title": "Gaaffii Qabannaa Kutaa",
+    "facility": "Kutaa",
+    "date": "Guyyaa Qabannaa",
+    "startTime": "Sa'aatii Jalqabaa",
+    "endTime": "Sa'aatii Xumuraa",
+    "purpose": "Kaayyoo",
+    "participants": "Baay'ina Hirmaattotaa",
+    "additionalRequirements": "Ulaagaalee Dabalataa",
+    "notes": "Yaadannoo",
+    "approvalRoute": "Adeemsa Mirkaneessaa",
+    "submitRequest": "Gaaffii Galchi",
+    "pending": "Eeggachaa Jira",
+    "approved": "Mirkanaa'eera",
+    "rejected": "Didee",
+    "cancelled": "Haqameera"
+  },
+  "messages": {
+    "success": "Hojii milkaa'inaan xumurameera.",
+    "error": "Dogoggorri uumameera. Maaloo irra deebi'ii yaali.",
+    "required": "Dirreen kun guutamuu qaba."
+  }
+}

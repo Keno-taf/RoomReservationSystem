@@ -1,0 +1,62 @@
+
+{
+  "appName": "የክፍል ቦታ ማስያዣ ስርዓት",
+  "navigation": {
+    "dashboard": "ዳሽቦርድ",
+    "newReservation": "አዲስ ቦታ ማስያዝ",
+    "myReservations": "የእኔ ቦታ ማስያዣዎች",
+    "pendingApprovals": "የሚጠበቁ ማጽደቆች",
+    "adminDashboard": "የአስተዳዳሪ ዳሽቦርድ",
+    "users": "ተጠቃሚዎች",
+    "logout": "ውጣ"
+  },
+  "header": {
+  "notifications": "ማሳወቂያዎች",
+  "noNotifications": "እስካሁን ማሳወቂያ የለም።",
+  "theme": "ገጽታ ቀይር",
+  "language": "ቋንቋ",
+  "logout": "ውጣ",
+  "markAllRead": "ሁሉንም እንደተነበቡ ምልክት አድርግ",
+  "loading": "ማሳወቂያዎች በመጫን ላይ...",
+  "loadError": "ማሳወቂያዎችን ማምጣት አልተቻለም።",
+  "markReadError": "ማሳወቂያውን እንደተነበበ ምልክት ማድረግ አልተቻለም።",
+  "unread": "ያልተነበቡ",
+  "retry": "እንደገና ሞክር",
+  "read": "ተነብቧል",
+  "openRelated": "ተዛማጅ ገጽ ክፈት"
+},
+  "common": {
+    "save": "አስቀምጥ",
+    "cancel": "ሰርዝ",
+    "submit": "አስገባ",
+    "loading": "በመጫን ላይ...",
+    "search": "ፈልግ",
+    "back": "ተመለስ",
+    "approve": "አጽድቅ",
+    "reject": "ውድቅ አድርግ",
+    "status": "ሁኔታ",
+    "actions": "ተግባራት"
+  },
+  "reservation": {
+    "title": "የቦታ ማስያዣ ጥያቄ",
+    "facility": "ክፍል",
+    "date": "የቦታ ማስያዣ ቀን",
+    "startTime": "የመጀመሪያ ሰዓት",
+    "endTime": "የማብቂያ ሰዓት",
+    "purpose": "ዓላማ",
+    "participants": "የተሳታፊዎች ብዛት",
+    "additionalRequirements": "ተጨማሪ መስፈርቶች",
+    "notes": "ማስታወሻዎች",
+    "approvalRoute": "የማጽደቅ ሂደት",
+    "submitRequest": "ጥያቄ አስገባ",
+    "pending": "በመጠባበቅ ላይ",
+    "approved": "ጸድቋል",
+    "rejected": "ውድቅ ተደርጓል",
+    "cancelled": "ተሰርዟል"
+  },
+  "messages": {
+    "success": "ተግባሩ በተሳካ ሁኔታ ተጠናቋል።",
+    "error": "ስህተት ተፈጥሯል። እባክዎ እንደገና ይሞክሩ።",
+    "required": "ይህ መስክ መሞላት አለበት።"
+  }
+}
